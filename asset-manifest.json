@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.40a2edf5.css",
+    "main.js": "/portfolio/static/js/main.6b6a7fc4.js",
+    "static/media/portfolio-4.jpg": "/portfolio/static/media/portfolio-4.bb7c1449cb30bebdd6ca.jpg",
+    "static/media/portfolio-1.jpg": "/portfolio/static/media/portfolio-1.19f4c479da62de784426.jpg",
+    "static/media/image.png": "/portfolio/static/media/image.8d574da046887ac3e525.png",
+    "static/media/naukari.com-icon.png": "/portfolio/static/media/naukari.com-icon.87757d5a9c3b5bd81647.png",
+    "static/media/react.png": "/portfolio/static/media/react.0a308eea401e02e1eb90.png",
+    "static/media/portfolio-3.jpg": "/portfolio/static/media/portfolio-3.9225557fe8aec9194acb.jpg",
+    "static/media/mail-icon.png": "/portfolio/static/media/mail-icon.cfcb2bb231469e87ad49.png",
+    "static/media/menu.png": "/portfolio/static/media/menu.8100b8dd4fd3c125cb66.png",
+    "static/media/java (1).png": "/portfolio/static/media/java (1).47118cd1461e223c5f2b.png",
+    "static/media/portfolio-2.jpg": "/portfolio/static/media/portfolio-2.187cbdf9707a3017ee59.jpg",
+    "static/media/contact.png": "/portfolio/static/media/contact.638e601e2b16a77e9ec9.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.2425b870c5c5056ad0de.png",
+    "static/media/webdev-icon.png": "/portfolio/static/media/webdev-icon.3eb2c20d6b1c54c51143.png",
+    "static/media/linkdin-icon.png": "/portfolio/static/media/linkdin-icon.96f1d88bd588f4f669ec.png",
+    "static/media/phone-icon.png": "/portfolio/static/media/phone-icon.6a71750b82ae7fa9158b.png",
+    "static/media/graphic-design.png": "/portfolio/static/media/graphic-design.d61fff07762f78ed4d6f.png",
+    "static/media/web-design.png": "/portfolio/static/media/web-design.326d563acb2a9b4618d2.png",
+    "static/media/hireme.png": "/portfolio/static/media/hireme.7a6af04ddf43147cdfe5.png",
+    "static/media/ui-design.png": "/portfolio/static/media/ui-design.d157618c2dd6e6fd89ff.png",
+    "static/media/github-icon.png": "/portfolio/static/media/github-icon.b02f6e44b4488f252e45.png",
+    "index.html": "/portfolio/index.html",
+    "main.40a2edf5.css.map": "/portfolio/static/css/main.40a2edf5.css.map",
+    "main.6b6a7fc4.js.map": "/portfolio/static/js/main.6b6a7fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40a2edf5.css",
+    "static/js/main.6b6a7fc4.js"
+  ]
+}
